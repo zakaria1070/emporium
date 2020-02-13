@@ -15928,4 +15928,19 @@ body {
   text-decoration: underline;
 }
 
+.sale {
+  border: 1px solid red;
+  border-radius: 50%;
+  color: white;
+  background-color: red;
+  text-transform: uppercase;
+  height: 50px;
+  width: 50px;
+}
+
+.barrer {
+  text-decoration: line-through;
+  color: gray;
+}
+
 /*# sourceMappingURL=styles.css.map */

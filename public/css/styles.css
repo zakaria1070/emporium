@@ -15914,4 +15914,18 @@ body {
   background-color: zak;
 }
 
+#treeImg .img {
+  background-image: url("../../public/img/services/service-1.jpg");
+  height: 33vh;
+  width: 66vh;
+  background-size: cover;
+  background-position: center;
+  border: solid 10px white;
+}
+#treeImg .img .text-treeImg {
+  position: absolute;
+  z-index: 1;
+  text-decoration: underline;
+}
+
 /*# sourceMappingURL=styles.css.map */
